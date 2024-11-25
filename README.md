@@ -1,0 +1,2 @@
+# Book_Market_Trends_-_Consumer_Behavior_Post-COVID_Era
+This project analyzes book market trends and consumer behavior in the post-COVID era using data from a competing book service. It explores book details, author and publisher information, customer ratings, and reviews to identify reading trends and consumer preferences. The insights will help develop a valid product proposition for book-loving users
